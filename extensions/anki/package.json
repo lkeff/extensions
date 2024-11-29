@@ -68,7 +68,7 @@
     "@raycast/utils": "^1.16.2",
     "@types/showdown": "^2.0.6",
     "@types/turndown": "^5.0.4",
-    "axios": "^1.7.2",
+    "axios": "^1.7.8",
     "npm-check-updates": "^16.14.20",
     "rss-parser": "^3.13.0",
     "showdown": "^2.1.0",
