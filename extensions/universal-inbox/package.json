@@ -41,7 +41,7 @@
     "@raycast/utils": "^1.10.1",
     "dayjs": "^1.11.13",
     "node-fetch": "^3.3.2",
-    "ts-pattern": "^5.0.6"
+    "ts-pattern": "^5.4.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
