@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "@octokit/core": "^3.6.0",
+    "@octokit/core": "^6.1.4",
     "@raycast/api": "^1.79.0",
     "@raycast/utils": "^1.16.2"
   },
