@@ -24,7 +24,7 @@
     }
   ],
   "dependencies": {
-    "@octokit/rest": "^20.0.1",
+    "@octokit/rest": "^21.1.1",
     "@raycast/api": "^1.55.2",
     "@raycast/utils": "^1.9.0",
     "node-fetch": "^3.3.1"
