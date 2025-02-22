@@ -42,7 +42,7 @@
     }
   ],
   "dependencies": {
-    "@octokit/request": "^8.2.0",
+    "@octokit/request": "^9.2.1",
     "@raycast/api": "^1.70.3",
     "cross-fetch": "^4.0.0",
     "execa": "^8.0.1",
