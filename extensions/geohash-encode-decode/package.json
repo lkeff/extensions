@@ -35,7 +35,7 @@
     "@sindresorhus/is": "^4.2.1",
     "geohash-to-geojson": "^4.1.0",
     "ngeohash": "^0.6.3",
-    "wkt-parser-helper": "^4.0.1"
+    "wkt-parser-helper": "^5.0.0"
   },
   "devDependencies": {
     "@types/ngeohash": "^0.6.4",
