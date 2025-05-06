@@ -34,7 +34,7 @@
     "@raycast/api": "^1.74.1",
     "@raycast/utils": "^1.15.0",
     "chart.js": "^4.4.3",
-    "mathjs": "^12.4.2",
+    "mathjs": "^14.4.0",
     "react-vis": "^1.12.1"
   },
   "devDependencies": {
