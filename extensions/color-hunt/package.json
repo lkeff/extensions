@@ -18,7 +18,7 @@
     "@raycast/api": "^1.73.2",
     "@raycast/utils": "^1.15.0",
     "cross-fetch": "^4.0.0",
-    "glob": "^10.3.15",
+    "glob": "^11.0.3",
     "satori": "^0.10.13"
   },
   "devDependencies": {
