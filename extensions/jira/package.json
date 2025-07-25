@@ -139,7 +139,7 @@
     "@raycast/utils": "^1.16.2",
     "date-fns": "^2.30.0",
     "filesize": "^10.1.0",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.4",
     "lodash": "^4.17.21",
     "md-to-adf": "^0.6.4",
     "node-fetch": "^3.3.2",
