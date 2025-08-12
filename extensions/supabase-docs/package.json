@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.42.0",
+    "@raycast/api": "^1.101.1",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
