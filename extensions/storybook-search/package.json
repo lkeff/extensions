@@ -36,7 +36,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.51.3",
+    "@raycast/api": "^1.101.1",
     "@raycast/utils": "^1.4.8",
     "url-join": "^5.0.0"
   },
