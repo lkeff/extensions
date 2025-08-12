@@ -41,7 +41,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.39.2",
+    "@raycast/api": "^1.101.1",
     "openai": "3.2.1"
   },
   "devDependencies": {
