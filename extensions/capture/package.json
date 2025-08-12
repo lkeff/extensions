@@ -29,7 +29,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.44.0",
+    "@raycast/api": "^1.101.1",
     "node-fetch": "^3.2.9"
   },
   "devDependencies": {
