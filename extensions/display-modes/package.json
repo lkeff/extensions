@@ -22,7 +22,7 @@
     "@raycast/utils": "^1.4.7",
     "@types/execa": "^2.0.0",
     "color-convert": "^2.0.1",
-    "execa": "^6.1.0"
+    "execa": "^9.6.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
