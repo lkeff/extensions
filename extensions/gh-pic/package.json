@@ -65,7 +65,7 @@
     }
   ],
   "dependencies": {
-    "@octokit/core": "^4.0.5",
+    "@octokit/core": "^6.1.4",
     "@raycast/api": "^1.69.0",
     "dayjs": "^1.11.5",
     "file-type": "^19.0.0"
