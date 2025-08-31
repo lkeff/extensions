@@ -23,7 +23,7 @@
   "dependencies": {
     "@raycast/api": "^1.26.3",
     "binascii": "^0.0.2",
-    "execa": "^5.1.1"
+    "execa": "^9.6.0"
   },
   "devDependencies": {
     "@types/node": "~16.10.0",
