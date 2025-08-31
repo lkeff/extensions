@@ -18,9 +18,15 @@
     }
   ],
   "dependencies": {
+
     "@contentful/rich-text-from-markdown": "^15.18.1",
     "@contentful/rich-text-html-renderer": "^16.6.10",
     "@contentful/rich-text-plain-text-renderer": "^16.2.1",
+
+    "@contentful/rich-text-from-markdown": "^15.18.10",
+    "@contentful/rich-text-html-renderer": "^16.6.1",
+    "@contentful/rich-text-plain-text-renderer": "^16.2.10",
+
     "@raycast/api": "^1.77.3"
   },
   "devDependencies": {
