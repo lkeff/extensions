@@ -17,7 +17,7 @@
         "mode": "no-view"
     }],
     "dependencies": {
-        "@raycast/api": "^1.41.1"
+        "@raycast/api": "^1.101.1"
     },
     "devDependencies": {
         "@types/node": "16.10.3",
