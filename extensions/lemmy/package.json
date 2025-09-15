@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.53.2",
-    "lemmy-js-client": "^0.17.2-rc.24"
+    "lemmy-js-client": "^0.17.2"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
