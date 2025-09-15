@@ -24,7 +24,7 @@
   "dependencies": {
     "@raycast/api": "^1.41.1",
     "@raycast/utils": "^1.4.9",
-    "execa": "^6.1.0",
+    "execa": "^9.6.0",
     "node-fetch": "^3.2.10",
     "ping": "^0.4.2"
   },
