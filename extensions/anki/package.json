@@ -72,7 +72,7 @@
     "npm-check-updates": "^17.0.0",
     "rss-parser": "^3.13.0",
     "showdown": "^2.1.0",
-    "turndown": "^7.2.0",
+    "turndown": "^7.2.2",
     "@eslint/config-array": "latest",
     "@eslint/object-schema": "latest",
     "rimraf": "^5.0.0",
