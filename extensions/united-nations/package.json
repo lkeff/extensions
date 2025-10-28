@@ -202,7 +202,7 @@
     "got": "^14.3.0",
     "mac-say": "^0.2.9",
     "raycast-cross-extension": "^0.2.3",
-    "turndown": "^7.2.0"
+    "turndown": "^7.2.2"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
