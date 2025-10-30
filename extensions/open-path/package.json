@@ -148,7 +148,7 @@
     "@raycast/api": "^1.75.1",
     "@raycast/utils": "^1.15.0",
     "fs-extra": "^11.2.0",
-    "validator": "^13.12.0"
+    "validator": "^13.15.20"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
