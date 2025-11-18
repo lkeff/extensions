@@ -52,7 +52,7 @@
     "@octokit/types": "^9.2.3",
     "@raycast/api": "^1.52.1",
     "@raycast/utils": "^1.4.8",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "node-fetch": "^3.3.1",
     "octokit": "^2.0.19"
   },
