@@ -1515,7 +1515,7 @@
     "countries-list": "^2.6.1",
     "dayjs": "^1.11.7",
     "js-yaml": "^4.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
