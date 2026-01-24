@@ -29,7 +29,7 @@
     "@raycast/utils": "^1.14.0",
     "cross-fetch": "^4.0.0",
     "jose": "^5.2.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "zod": "^3.22.4"
   },
   "devDependencies": {
