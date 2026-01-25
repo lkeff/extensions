@@ -102,7 +102,7 @@
     "@raycast/api": "^1.67.1",
     "@raycast/utils": "^1.12.4",
     "jest": "^29.7.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "ts-jest": "^29.1.2"
   },
   "devDependencies": {
