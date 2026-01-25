@@ -26,7 +26,7 @@
     "@raycast/utils": "^1.1.0",
     "dayjs": "^1.10.7",
     "jotai": "^1.4.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "url-regex-safe": "^3.0.0"
   },
   "devDependencies": {
