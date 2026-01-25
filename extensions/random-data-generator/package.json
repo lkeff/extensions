@@ -60,7 +60,7 @@
     "@faker-js/faker": "^7.6.0",
     "@raycast/api": "^1.66.2",
     "is-url": "^1.2.4",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
