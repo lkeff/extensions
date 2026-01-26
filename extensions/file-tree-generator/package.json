@@ -21,7 +21,7 @@
   "dependencies": {
     "@raycast/api": "^1.68.1",
     "@raycast/utils": "^1.12.5",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
