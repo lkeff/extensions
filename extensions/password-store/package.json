@@ -35,7 +35,7 @@
   "dependencies": {
     "@raycast/api": "^1.69.0",
     "@raycast/utils": "^1.15.0",
-    "glob": "^11.0.3"
+    "glob": "^12.0.0"
   },
   "scripts": {
     "build": "ray build -e dist",
