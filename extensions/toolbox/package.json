@@ -54,9 +54,9 @@
     "esrever": "^0.2.0",
     "execa": "^6.1.0",
     "js-base64": "^3.7.2",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "json5": "^2.2.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "prettier": "^3.2.4",
     "sql-formatter": "^15.0.2",
     "vkbeautify": "^0.99.3"
