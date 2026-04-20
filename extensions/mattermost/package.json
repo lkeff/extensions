@@ -86,7 +86,7 @@
     "@raycast/api": "^1.49.2",
     "@raycast/utils": "^1.7.1",
     "luxon": "^3.1.1",
-    "mattermost-redux": "5.31.2",
+    "mattermost-redux": "10.6.0",
     "axios": "^0.26.1",
     "run-applescript": "^6.0.0"
   },
