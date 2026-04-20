@@ -45,7 +45,7 @@
     "@octokit/request": "^8.2.0",
     "@raycast/api": "^1.70.3",
     "cross-fetch": "^4.0.0",
-    "execa": "^8.0.1",
+    "execa": "^9.6.0",
     "shell-env": "^4.0.1"
   },
   "devDependencies": {
