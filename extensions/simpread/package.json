@@ -28,7 +28,7 @@
     "@raycast/api": "^1.25.0",
     "node-fetch": "^3.0.0",
     "open": "^8.3.0",
-    "turndown": "^7.1.1"
+    "turndown": "^7.2.2"
   },
   "devDependencies": {
     "@types/node": "~16.10.0",
