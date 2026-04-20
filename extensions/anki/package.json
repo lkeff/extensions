@@ -76,7 +76,7 @@
     "@eslint/config-array": "latest",
     "@eslint/object-schema": "latest",
     "rimraf": "^5.0.0",
-    "glob": "^11.0.3"
+    "glob": "^11.1.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.8",
