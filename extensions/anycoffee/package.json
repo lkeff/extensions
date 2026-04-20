@@ -35,7 +35,7 @@
     "@raycast/api": "^1.56.1",
     "@raycast/utils": "^1.9.1",
     "axios": "^1.5.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
