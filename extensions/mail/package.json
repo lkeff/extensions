@@ -143,7 +143,7 @@
     "juice": "^9.1.0",
     "mailparser": "^3.7.1",
     "mime-types": "^2.1.35",
-    "turndown": "^7.2.0",
+    "turndown": "^7.2.2",
     "utf8": "^3.0.0"
   },
   "devDependencies": {
