@@ -515,7 +515,7 @@
     "@raycast/api": "^1.59.0",
     "@raycast/utils": "^1.10.0",
     "node-fetch": "^3.3.2",
-    "wpcom": "^5.4.2"
+    "wpcom": "^7.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
