@@ -54,7 +54,7 @@
     "@raycast/eslint-config": "^1.0.6",
     "@raycast/utils": "^1.13.1",
     "date-fns": "^2.29.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/date-fns": "^2.6.0",
