@@ -29,7 +29,7 @@
     "@raycast/api": "^1.77.1",
     "axios": "^1.7.2",
     "sha256-file": "^1.0.0",
-    "tar": "^7.2.0"
+    "tar": "^7.5.4"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
