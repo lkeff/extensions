@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.49.3",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "markdown-it-plain-text": "^0.3.0"
   },
   "devDependencies": {
