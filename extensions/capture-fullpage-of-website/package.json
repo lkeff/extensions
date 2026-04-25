@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.76.0",
-    "playwright": "^1.44.1",
+    "playwright": "^1.56.0",
     "url": "^0.11.3"
   },
   "devDependencies": {
