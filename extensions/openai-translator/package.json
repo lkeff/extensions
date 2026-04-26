@@ -702,7 +702,7 @@
     "@raycast/api": "^1.69.0",
     "capitalize": "^2.0.4",
     "eventsource-parser": "^1.1.1",
-    "google-auth-library": "^8.8.0",
+    "google-auth-library": "^9.0.0",
     "iso-639-1": "^2.1.15",
     "iso-639-3-to-1": "^1.0.0",
     "node-fetch": "^3.3.0",
