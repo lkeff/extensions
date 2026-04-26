@@ -47,7 +47,7 @@
 		"@raycast/api": "^1.42.2",
 		"@raycast/utils": "^1.4.10",
 		"fs-extra": "^10.1.0",
-		"globby": "^13.1.2"
+		"globby": "^14.1.0"
 	},
 	"devDependencies": {
 		"@types/fs-extra": "^9.0.13",
