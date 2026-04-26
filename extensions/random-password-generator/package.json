@@ -17,7 +17,7 @@
   "dependencies": {
     "@raycast/api": "^1.30.3",
     "@zxcvbn-ts/core": "^2.0.0",
-    "@zxcvbn-ts/language-common": "^2.0.0",
+    "@zxcvbn-ts/language-common": "^3.0.3",
     "@zxcvbn-ts/language-en": "^2.0.0"
   },
   "devDependencies": {
