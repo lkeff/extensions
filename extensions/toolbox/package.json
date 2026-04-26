@@ -52,7 +52,7 @@
   "dependencies": {
     "@raycast/api": "^1.30.3",
     "esrever": "^0.2.0",
-    "execa": "^6.1.0",
+    "execa": "^9.6.0",
     "js-base64": "^3.7.2",
     "js-yaml": "^4.1.0",
     "json5": "^2.2.3",
